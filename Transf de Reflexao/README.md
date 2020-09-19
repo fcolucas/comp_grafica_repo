@@ -1,0 +1,4 @@
+<h2>Atividades Transformação por Reflexão</h2>
+<p>1. Faça uma transformação em reflexão usando a seguinte matriz de transformação [1 0; 0 -1] para um quadrado de lado 2 com ponto inferior esquerdo posicionado em (0.5,1.0).</p>
+<p>2. Faça uma transformação em reflexão em um quadrado de tal maneira que um este elemento vá do 4o para o 2o quadrante. Este quadrado tem lado igual a 1.5 e fica a uma distância 1,4142 da origem.</p>
+<p>3. Faça uma transformação em reflexão usando a seguinte matriz de transformação [-1 0; 0 -1] para um trapézio localizado no 1o quadrante com base maior igual a 4, base menor igual a 2 e altura igual a 3. O ponto inferior esquerdo de tal elemento está posicionado em (2.0,1.0).</p>
