@@ -1,6 +1,6 @@
 <h2>Repositório Computação Gráfica</h2>
 
-<p>Atividades desenvolvidas na disciplina de Computação Gráfica, usando o software Octave</p>
+<p>Atividades desenvolvidas na disciplina de Computação Gráfica, usando o software <a href="https://www.gnu.org/software/octave/index">Octave</a></p>
 
 <ol>
 	<li>Transformação em Escala</li>
