@@ -3,11 +3,11 @@
 <p>Atividades desenvolvidas na disciplina de Computação Gráfica, usando o software <a href="https://www.gnu.org/software/octave/index">Octave</a></p>
 
 <ol>
-	<li>Transformação em Escala</li>
-	<li>Transformação por Rotação</li>
-	<li>Transformação por Reflexão</li>
-	<li>Transformação por Cisalhamento</li>
-	<li>Transformação por Translação</li>
-	<li>Sistema de coordenadas da câmera</li>
-	<li>Projeção de sólidos</li>
+	<li>Transformação em Escala.</li>
+	<li>Transformação por Rotação.</li>
+	<li>Transformação por Reflexão.</li>
+	<li>Transformação por Cisalhamento.</li>
+	<li>Transformação por Translação.</li>
+	<li>Sistema de coordenadas da câmera.</li>
+	<li>Projeção de sólidos.</li>
 </ol>
