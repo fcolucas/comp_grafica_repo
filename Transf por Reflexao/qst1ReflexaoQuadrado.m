@@ -5,9 +5,9 @@ function retval = qst1ReflexaoQuadrado(pontos)
   endfunction
   
   ponto1 = [0.5 1]
-  ponto2 = [ponto1(1, 1) 2+ponto1(1, 2)]
-  ponto3 = [2+ponto1(1, 1) 2+ponto1(1, 2)]
-  ponto4 = [2+ponto1(1, 1) ponto1(1, 2)]
+  ponto2 = [ponto1(1,1) 2+ponto1(1,2)]
+  ponto3 = [2+ponto1(1,1) 2+ponto1(1,2)]
+  ponto4 = [2+ponto1(1,1) ponto1(1,2)]
  
   pontos = [ponto1(1, :); ponto2(1, :); ponto3(1, :); ponto4(1, :)]
   
